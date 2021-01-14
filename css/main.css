@@ -1,0 +1,623 @@
+/*  -----------------
+    BASE STYLES
+---------------------  */
+@font-face {
+    font-family: "HKGroteskPro Semi";
+    src: url("../fonts/HKGroteskPro-SemiBold.otf");
+}
+
+@font-face {
+    font-family: "HKGroteskPro Med";
+    src: url("../fonts/HKGroteskPro-Medium.otf"); 
+}
+
+@font-face {
+    font-family: "HKGroteskPro Reg";
+    src: url("../fonts/HKGroteskPro-Regular.otf");
+}
+
+
+html,
+body {
+    font-family: 'HKGroteskPro Reg', Helvetica, Arial, sans-serif;
+    font-size: 1em; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'HKGroteskPro Semi', Helvetica, Arial, sans-serif; 
+}
+
+h1 {
+    font-size: 48px !important;
+}
+
+h2 {
+    font-size: 36px !important;
+}
+
+h3  {
+    font-size: 24px !important;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+} 
+
+section {
+    min-height: 400px;
+   
+}
+
+section:nth-child(1) {
+    height: 710px;
+}
+
+section:nth-child(2) {
+    height: 880px;
+}
+
+section.it-works {
+    overflow: hidden;
+}
+
+
+/*  -----------------
+    CLASS STYLES
+---------------------  */
+
+.cc-accordian {  
+    width: 50%;
+    cursor: pointer;
+    height: 200px;
+}
+
+.cc-accordian img {
+    margin-left: -1%;
+    
+}
+
+.cc-acc-text{
+    height: 0;
+    overflow: hidden;
+    transition: all .35s;
+}
+
+.cc-accordian.active > .cc-acc-text {
+    height: 100px;
+}
+
+.cc-acc-title {
+    margin-bottom: 3%;
+    
+}
+
+
+.cc-bar {
+    background-color: #000;
+    width: 100px;
+    height: 300px;
+    transition: all 1s;
+    margin-top: -200%;
+}
+
+.cc-bar.one {
+    height: 431px;
+}
+
+.cc-bar.two {
+    height: 462px;
+}
+
+.cc-bar.three {
+    height: 328px;
+}
+
+.cc-bar.four {
+    height: 465px;
+}
+
+.cc-bar.five {
+    height: 556px;
+}
+
+.cc-bar.six {
+    height: 891px;
+}
+
+.cc-bar.seven {
+    height: 1200px;
+}
+
+.cc-bar.eight {
+    height: 816px;
+}
+
+.cc-bars-container {
+    position: absolute;
+    top: -100%;
+    width: 100%;
+}
+
+.cc-block {
+    position: absolute;
+}
+
+.cc-block.one {
+    left: 32%;
+}
+
+.cc-block.two {
+    right: 22%;
+    top: -27%;
+}
+
+.cc-block.three {
+    top: -140%;
+    right: -5%;
+}
+
+.cc-block.four {
+    top: -170%;
+    left: 60%;
+}
+
+.cc-blocks-container {
+    height: 600px;
+    position: relative;
+}
+
+.cc-blocks-container .top {
+    z-index: 2;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.cc-blocks-container .bottom {
+    position: absolute;
+    bottom: 0;
+    left: -10%;
+}
+
+.cc-blocks-container .mid {
+    position: relative;
+    z-index: 1;
+}
+
+.cc-box {
+    border-top: 0 !important;
+    border: 7px solid #F33437;
+    height: 397px;
+}
+
+.cc-boxes-row {
+    margin-bottom: 2%;
+}
+
+.cc-button {
+    font-family: 'HKGroteskPro Med' ;
+    color: #066D9F;
+    font-weight: 400;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #066D9F;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.cc-button:hover {
+    padding-bottom: 15px;
+    letter-spacing: 1px;
+}
+
+.cc-button-wrap {
+    position: relative;
+    margin-top: 2%;
+}
+
+.cc-circles {
+    width: 200px;
+    height: 200px;
+}
+
+.cc-circle-box {
+    position: relative;
+    height: 125px;
+    width: 125px;
+}
+
+.cc-circle-box.md {
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+
+/* Combine Circles */
+
+.cc-circle-box.combine .cc-circle-xs.one {
+    animation: combine1 .85s forwards ease-in;
+} 
+
+.cc-circle-box.combine > .cc-circle-xs.two {
+    animation: combine2 .85s forwards ease-in;
+} 
+
+.cc-circle-box.combine > .cc-circle-xs.three {
+    animation: combine3 .85s forwards ease-in;
+} 
+
+/* Overlay Circles */
+
+.cc-circle-box.overlay > .cc-circle-md.one {
+    animation: overlay1 .65s forwards ease-in;
+} 
+
+.cc-circle-box.overlay > .cc-circle-md.two {
+    animation: overlay2 .65s forwards ease-in;
+} 
+
+/* Large Circles */
+
+.cc-circle-lg {
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-bottom: 25%;
+    position: relative;
+    overflow: hidden;
+}
+
+.cc-circle-lg .lines {
+    position: absolute;
+    transform: rotate(-45deg);
+    top: 80%;
+    left: 80%;
+}
+
+.cc-circle-lg.line-overlay > .lines {
+   animation: line-overlays2 1.15s infinite ease-in;
+}
+
+/* Medium Circles */
+
+.cc-circle-md {
+    height: 125px;
+    width: 125px;
+    border-radius: 100%;
+    opacity: 0;
+    transition: all .5s;;
+}
+
+.cc-circle-md.one {
+    position: absolute;
+    left: -20%;
+
+}
+
+.cc-circle-md.two {
+    position: absolute;
+    right: -20%;
+    z-index: 1;
+}
+
+/* Small Circles */
+
+.cc-circle-sm {
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    margin-bottom: 25%;
+    position: relative;
+    overflow: hidden;
+    
+}
+
+/* Line Overlay */
+
+.cc-circle-sm.line-overlay > .lines {
+     animation: line-overlays .85s infinite ease-in;
+}
+
+.cc-circle-sm.two.line-overlay > .lines {
+     animation-delay: .25s;
+}
+
+.cc-circle-sm.three.line-overlay > .lines {
+     animation-delay: .5s;
+}
+
+.cc-circle-sm.four.line-overlay > .lines {
+     animation-delay: .75s;
+}
+
+.cc-circle-sm .lines {
+    position: absolute;
+    margin: auto;
+    left: -50%;
+    top: 100%;
+}
+
+/* Extra Small Circles */
+
+.cc-circle-xs {
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+    margin-bottom: 25%;
+    transition: all .5s;
+}
+
+.cc-circle-xs.one {
+    position: absolute;;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.cc-circle-xs.two {
+    position: absolute;;
+    bottom: 0;
+    left: 0;
+    margin: 0;
+}
+
+.cc-circle-xs.three {
+    position: absolute;;
+    bottom: 0;
+    right: 0;
+    margin: 0;
+}
+
+.cc-container {
+    max-width: 1200px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    position: relative;
+}
+
+.cc-container-text {
+    font-size: 20px;
+    line-height: 2.2;
+    color: #767676;
+}
+
+.cc-container-text b {
+    font-size: 14px;
+    line-height: 2;
+    color: #000;
+}
+
+.cc-content-row {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.cc-footer {
+    background-color: #000;
+    color: #fff;
+}
+
+.cc-footer-main {
+    margin-bottom: 10%;
+}
+
+.cc-footer-top {
+    margin-bottom: 4%;
+}
+
+.cc-footer .col {
+    width: 12%;
+    margin-right: 5%;
+}
+
+.cc-footer .col h2 {
+   margin-bottom: 7%;
+}
+
+.cc-graphic {
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cc-graphic-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cc-graphic p {
+    padding: 5px;
+    margin-bottom: 24%;
+}
+
+.cc-info-container {
+    width: 50%;
+    padding: 0 2%;
+}
+
+.cc-h-line {
+    height: 1px;
+    width: 100%;
+    background-color: #6D7278;
+}
+
+.cc-v-line {
+    height: 150px;
+    width: 1px;
+    background-color: #6D7278;
+}
+
+.cc-logo p {
+    font-family: 'HKGroteskPro Med' ;
+}
+
+.cc-logo p span {
+    color: #086EA0;
+}
+
+.cc-logo-box {
+    background-color: white;
+    width: 211px;
+    height: 134px;
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.cc-logo-box img{
+    margin: auto;
+}
+
+.cc-mat {
+    height: 400px;
+    width: 80%;
+    transform: skewX(-70deg) scaleY(0.65);
+    position: absolute;
+    bottom: 0;
+    right: -10%;
+}
+
+.cc-nav-item {
+    font-size: 15px;
+    padding: 12px;
+    color: #767676;
+    font-weight: 400;
+}
+
+.cc-pillars {
+    position: relative;
+    height: 200px;
+}
+
+.cc-sub-title {
+    color: #F33437;
+    font-size: 18px !important;
+}
+
+.cc-text {
+    padding-top: 2%;
+}
+
+.cc-text-box.active {
+    color: #000;
+    line-height: 2;
+
+}
+
+.cc-text-box.active::before {
+    left: -15%;
+    opacity: 1;
+}
+
+.cc-text-box::before {
+    position: absolute;
+    content: "";
+    top: 24px;
+    left: -20%;
+    width: 40px;
+    height: 1px;
+    background-color: #F33437;
+    opacity: 0;
+    transition: all .5s;
+}
+
+.cc-text-box.active > h3{
+    font-size: 24px !important;
+}
+
+.cc-text-box.active > p{
+    font-size: 16px;
+}
+
+.cc-text-box > h3 {
+    font-size: 14px !important;
+}
+
+.cc-text-box {
+    color: #6D7278;
+    font-size: 14px;
+    margin-bottom: 2%;
+    width: 30%;
+    transition: all .5s;
+    position: relative;
+    cursor: pointer;
+}
+
+.cc-text-box:hover {
+    color: #000;
+}
+
+/*- Background Colors -*/
+
+.dark-blue {
+    background-color: #066D9F;
+}
+
+.light-blue {
+    background-color: #67C7EC;
+}
+
+.light-grey {
+    background-color: #F1F1F1;
+}
+
+.yellow {
+    background-color: #EEDD23;
+}
+
+.red {
+    background-color: #F33437;
+}
+
+/*  -----------------
+    KEYFRAMES
+---------------------  */
+
+@keyframes line-overlays {
+    from { top:100% }
+    to { top: -150%}
+}
+
+@keyframes line-overlays2 {
+    from { top:80%; left: 80%}
+    to { top:-80%; left: -80%}
+}
+
+@keyframes combine1 {
+    from { top:0; }
+    to { top:30%; background-color: #EEDD23;}
+}
+
+@keyframes combine2 {
+    from { bottom: 0; left: 0; }
+    to { bottom: 30%; left: 30%; background-color: #EEDD23;}
+}
+
+@keyframes combine3 {
+    from { bottom: 0; right: 0; }
+    to { bottom: 30%; right: 30%; background-color: #EEDD23;}
+}
+
+@keyframes overlay1 {
+    from { opacity: 0; left: -20%; }
+    to { opacity: 1; left: 0; mix-blend-mode: multiply;}
+}
+
+@keyframes overlay2 {
+    from { opacity: 0; right: -20%; }
+    to { opacity: 1; right: 0; mix-blend-mode: multiply;}
+}
+
+
+.reverse {
+    animation-direction: reverse;
+}

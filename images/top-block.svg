@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="153.979" height="90.971" viewBox="0 0 153.979 90.971">
+  <defs>
+    <ellipse id="ellipse-3" cx="70.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-4" fill-rule="evenodd" d="M55.85974121 3.5v12.6661377h29.60253906V3.5H55.85974121z"/>
+    <ellipse id="ellipse-5" cx="70.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-6" cx="44.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-7" fill-rule="evenodd" d="M29.85974121 14.5v12.6661377h29.60253906V14.5H29.85974121z"/>
+    <ellipse id="ellipse-8" cx="44.711" cy="14" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-9" cx="112.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-10" fill-rule="evenodd" d="M97.85974121 3.5v12.6661377h29.60253906V3.5H97.85974121z"/>
+    <ellipse id="ellipse-11" cx="112.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-12" cx="86.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-13" fill-rule="evenodd" d="M71.7109375 14.5v13h30v-13h-30z"/>
+    <ellipse id="ellipse-14" cx="86.711" cy="14" rx="15" ry="2.5"/>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <path fill="rgb(238,221,35)" fill-rule="evenodd" d="M48.41195124 9.5l105.54739935.5102539-48.48242188 24.7932129H.0111084L48.41195124 9.5z"/>
+        <path fill="rgb(231,214,26)" fill-rule="evenodd" d="M0 34.83105469v56.1398145h105.41308594l48.56640625-24.93522466V9.99853516l-48.56640625 24.83251953H0z"/>
+      </g>
+      <g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#ellipse-3"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-3"/>
+        </g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#path-4"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-4"/>
+        </g>
+        <g>
+          <use fill="rgb(254,251,225)" xlink:href="#ellipse-5"/>
+          <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#ellipse-6"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-6"/>
+        </g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#path-7"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-7"/>
+        </g>
+        <g>
+          <use fill="rgb(254,251,225)" xlink:href="#ellipse-8"/>
+          <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-8"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#ellipse-9"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-9"/>
+        </g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#path-10"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-10"/>
+        </g>
+        <g>
+          <use fill="rgb(254,251,225)" xlink:href="#ellipse-11"/>
+          <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-11"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#ellipse-12"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-12"/>
+        </g>
+        <g>
+          <use fill="rgb(213,196,9)" xlink:href="#path-13"/>
+          <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-13"/>
+        </g>
+        <g>
+          <use fill="rgb(254,251,225)" xlink:href="#ellipse-14"/>
+          <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-14"/>
+        </g>
+      </g>
+    </g>
+    <path fill="rgb(213,196,9)" fill-rule="evenodd" d="M105.43945313 34.8380127v56.12255859l48.50463867-24.86413574V10.05432129l-48.50463867 24.7836914z"/>
+  </g>
+</svg>

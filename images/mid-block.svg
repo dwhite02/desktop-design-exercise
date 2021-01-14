@@ -1,0 +1,562 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="422.979" height="205.971" viewBox="0 0 422.979 205.971">
+  <defs>
+    <ellipse id="ellipse-3" cx="231.711" cy="131" rx="15" ry="2.5"/>
+    <path id="path-4" fill-rule="evenodd" d="M216.85974121 118.5v12.6661377h29.60253906V118.5h-29.60253906z"/>
+    <ellipse id="ellipse-5" cx="231.711" cy="118" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-6" cx="205.711" cy="142" rx="15" ry="2.5"/>
+    <path id="path-7" fill-rule="evenodd" d="M190.85974121 129.5v12.6661377h29.60253906V129.5h-29.60253906z"/>
+    <ellipse id="ellipse-8" cx="205.711" cy="129" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-9" cx="273.711" cy="131" rx="15" ry="2.5"/>
+    <path id="path-10" fill-rule="evenodd" d="M258.85974121 118.5v12.6661377h29.60253906V118.5h-29.60253906z"/>
+    <ellipse id="ellipse-11" cx="273.711" cy="118" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-12" cx="247.711" cy="142" rx="15" ry="2.5"/>
+    <path id="path-13" fill-rule="evenodd" d="M232.85974121 129.5v12.6661377h29.60253906V129.5h-29.60253906z"/>
+    <ellipse id="ellipse-14" cx="247.711" cy="129" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-18" cx="339.711" cy="131" rx="15" ry="2.5"/>
+    <path id="path-19" fill-rule="evenodd" d="M324.85974121 118.5v12.6661377h29.60253906V118.5h-29.60253906z"/>
+    <ellipse id="ellipse-20" cx="339.711" cy="118" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-21" cx="313.711" cy="142" rx="15" ry="2.5"/>
+    <path id="path-22" fill-rule="evenodd" d="M298.85974121 129.5v12.6661377h29.60253906V129.5h-29.60253906z"/>
+    <ellipse id="ellipse-23" cx="313.711" cy="129" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-24" cx="381.711" cy="131" rx="15" ry="2.5"/>
+    <path id="path-25" fill-rule="evenodd" d="M366.85974121 118.5v12.6661377h29.60253906V118.5h-29.60253906z"/>
+    <ellipse id="ellipse-26" cx="381.711" cy="118" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-27" cx="355.711" cy="142" rx="15" ry="2.5"/>
+    <path id="path-28" fill-rule="evenodd" d="M340.7109375 129.5v13h30v-13h-30z"/>
+    <ellipse id="ellipse-29" cx="355.711" cy="129" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-33" cx="70.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-34" fill-rule="evenodd" d="M55.85974121 60.5v12.6661377h29.60253906V60.5H55.85974121z"/>
+    <ellipse id="ellipse-35" cx="70.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-36" cx="44.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-37" fill-rule="evenodd" d="M29.85974121 71.5v12.6661377h29.60253906V71.5H29.85974121z"/>
+    <ellipse id="ellipse-38" cx="44.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-39" cx="112.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-40" fill-rule="evenodd" d="M97.85974121 60.5v12.6661377h29.60253906V60.5H97.85974121z"/>
+    <ellipse id="ellipse-41" cx="112.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-42" cx="86.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-43" fill-rule="evenodd" d="M71.7109375 71.5v13h30v-13h-30z"/>
+    <ellipse id="ellipse-44" cx="86.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-48" cx="178.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-49" fill-rule="evenodd" d="M163.85974121 60.5v12.6661377h29.60253906V60.5h-29.60253906z"/>
+    <ellipse id="ellipse-50" cx="178.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-51" cx="152.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-52" fill-rule="evenodd" d="M137.85974121 71.5v12.6661377h29.60253906V71.5h-29.60253906z"/>
+    <ellipse id="ellipse-53" cx="152.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-54" cx="220.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-55" fill-rule="evenodd" d="M205.85974121 60.5v12.6661377h29.60253906V60.5h-29.60253906z"/>
+    <ellipse id="ellipse-56" cx="220.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-57" cx="194.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-58" fill-rule="evenodd" d="M179.85974121 71.5v12.6661377h29.60253906V71.5h-29.60253906z"/>
+    <ellipse id="ellipse-59" cx="194.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-63" cx="117.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-64" fill-rule="evenodd" d="M102.85974121 3.5v12.6661377h29.60253906V3.5h-29.60253906z"/>
+    <ellipse id="ellipse-65" cx="117.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-66" cx="91.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-67" fill-rule="evenodd" d="M76.85974121 14.5v12.6661377h29.60253906V14.5H76.85974121z"/>
+    <ellipse id="ellipse-68" cx="91.711" cy="14" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-69" cx="159.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-70" fill-rule="evenodd" d="M144.85974121 3.5v12.6661377h29.60253906V3.5h-29.60253906z"/>
+    <ellipse id="ellipse-71" cx="159.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-72" cx="133.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-73" fill-rule="evenodd" d="M118.85974121 14.5v12.6661377h29.60253906V14.5h-29.60253906z"/>
+    <ellipse id="ellipse-74" cx="133.711" cy="14" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-78" cx="286.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-79" fill-rule="evenodd" d="M271.85974121 60.5v12.6661377h29.60253906V60.5h-29.60253906z"/>
+    <ellipse id="ellipse-80" cx="286.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-81" cx="260.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-82" fill-rule="evenodd" d="M245.85974121 71.5v12.6661377h29.60253906V71.5h-29.60253906z"/>
+    <ellipse id="ellipse-83" cx="260.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-84" cx="328.711" cy="73" rx="15" ry="2.5"/>
+    <path id="path-85" fill-rule="evenodd" d="M313.85974121 60.5v12.6661377h29.60253906V60.5h-29.60253906z"/>
+    <ellipse id="ellipse-86" cx="328.711" cy="60" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-87" cx="302.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-88" fill-rule="evenodd" d="M287.85974121 71.5v12.6661377h29.60253906V71.5h-29.60253906z"/>
+    <ellipse id="ellipse-89" cx="302.711" cy="71" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-93" cx="225.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-94" fill-rule="evenodd" d="M210.85974121 3.5v12.6661377h29.60253906V3.5h-29.60253906z"/>
+    <ellipse id="ellipse-95" cx="225.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-96" cx="199.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-97" fill-rule="evenodd" d="M184.85974121 14.5v12.6661377h29.60253906V14.5h-29.60253906z"/>
+    <ellipse id="ellipse-98" cx="199.711" cy="14" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-99" cx="267.711" cy="16" rx="15" ry="2.5"/>
+    <path id="path-100" fill-rule="evenodd" d="M252.85974121 3.5v12.6661377h29.60253906V3.5h-29.60253906z"/>
+    <ellipse id="ellipse-101" cx="267.711" cy="3" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-102" cx="241.711" cy="27" rx="15" ry="2.5"/>
+    <path id="path-103" fill-rule="evenodd" d="M226.85974121 14.5v12.6661377h29.60253906V14.5h-29.60253906z"/>
+    <ellipse id="ellipse-104" cx="241.711" cy="14" rx="15" ry="2.5"/>
+    <ellipse id="ellipse-106" cx="302.711" cy="84" rx="15" ry="2.5"/>
+    <path id="path-107" fill-rule="evenodd" d="M287.85974121 71.5v12.6661377h29.60253906V71.5h-29.60253906z"/>
+    <ellipse id="ellipse-108" cx="302.711" cy="71" rx="15" ry="2.5"/>
+  </defs>
+  <g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(103,199,236)" fill-rule="evenodd" d="M209.41195124 124.5l105.54739935.5102539-48.48242188 24.7932129H161.0111084L209.41195124 124.5z"/>
+          <path fill="rgb(72,186,230)" fill-rule="evenodd" d="M161 149.83105469v56.1398145h105.41308594l48.56640625-24.93522466v-56.03710937l-48.56640625 24.83251953H161z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-3"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-3"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-4"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-4"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-5"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-5"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-6"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-6"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-7"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-7"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-8"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-8"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-9"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-9"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-10"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-10"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-11"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-11"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-12"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-12"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-13"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-13"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-14"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-14"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(38,162,209)" fill-rule="evenodd" d="M266.43945313 149.8380127v56.12255859l48.50463867-24.86413574v-56.04211426l-48.50463868 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(238,221,35)" fill-rule="evenodd" d="M317.41195124 124.5l105.54739935.5102539-48.48242188 24.7932129H269.0111084L317.41195124 124.5z"/>
+          <path fill="rgb(231,214,26)" fill-rule="evenodd" d="M269 149.83105469v56.1398145h105.41308594l48.56640625-24.93522466v-56.03710937l-48.56640625 24.83251953H269z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-18"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-18"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-19"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-19"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-20"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-20"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-21"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-21"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-22"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-22"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-23"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-23"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-24"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-24"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-25"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-25"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-26"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-26"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-27"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-27"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-28"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-28"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-29"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-29"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(213,196,9)" fill-rule="evenodd" d="M374.43945313 149.8380127v56.12255859l48.50463867-24.86413574v-56.04211426l-48.50463868 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(238,221,35)" fill-rule="evenodd" d="M48.41195124 66.5l105.54739935.5102539-48.48242188 24.7932129H.0111084L48.41195124 66.5z"/>
+          <path fill="rgb(231,214,26)" fill-rule="evenodd" d="M0 91.83105469v56.1398145h105.41308594l48.56640625-24.93522466V66.99853516l-48.56640625 24.83251953H0z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-33"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-33"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-34"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-34"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-35"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-35"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-36"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-36"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-37"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-37"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-38"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-38"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-39"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-39"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-40"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-40"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-41"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-41"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#ellipse-42"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-42"/>
+          </g>
+          <g>
+            <use fill="rgb(213,196,9)" xlink:href="#path-43"/>
+            <use fill-opacity="0" stroke="rgb(213,196,9)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-43"/>
+          </g>
+          <g>
+            <use fill="rgb(254,251,225)" xlink:href="#ellipse-44"/>
+            <use fill-opacity="0" stroke="rgb(254,251,225)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-44"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(213,196,9)" fill-rule="evenodd" d="M105.43945313 91.8380127v56.12255859l48.50463867-24.86413574V67.05432129l-48.50463867 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(103,199,236)" fill-rule="evenodd" d="M156.41195124 66.5l105.54739935.5102539-48.48242188 24.7932129H108.0111084L156.41195124 66.5z"/>
+          <path fill="rgb(72,186,230)" fill-rule="evenodd" d="M108 91.83105469v56.1398145h105.41308594l48.56640625-24.93522466V66.99853516l-48.56640625 24.83251953H108z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-48"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-48"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-49"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-49"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-50"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-50"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-51"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-51"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-52"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-52"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-53"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-53"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-54"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-54"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-55"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-55"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-56"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-56"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#ellipse-57"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-57"/>
+          </g>
+          <g>
+            <use fill="rgb(38,162,209)" xlink:href="#path-58"/>
+            <use fill-opacity="0" stroke="rgb(38,162,209)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-58"/>
+          </g>
+          <g>
+            <use fill="rgb(201,238,252)" xlink:href="#ellipse-59"/>
+            <use fill-opacity="0" stroke="rgb(201,238,252)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-59"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(38,162,209)" fill-rule="evenodd" d="M213.43945313 91.8380127v56.12255859l48.50463867-24.86413574V67.05432129l-48.50463868 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(42,41,42)" fill-rule="evenodd" d="M95.41195124 9.5l105.54739935.5102539-48.48242188 24.7932129H47.0111084L95.41195124 9.5z"/>
+          <path fill="rgb(34,34,34)" fill-rule="evenodd" d="M47 34.83105469v56.1398145h105.41308594l48.56640625-24.93522466V9.99853516l-48.56640625 24.83251953H47z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-63"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-63"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-64"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-64"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-65"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-65"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-66"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-66"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-67"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-67"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-68"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-68"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-69"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-69"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-70"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-70"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-71"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-71"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-72"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-72"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-73"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-73"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-74"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-74"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M152.43945313 34.8380127v56.12255859l48.50463867-24.86413574V10.05432129l-48.50463867 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(42,41,42)" fill-rule="evenodd" d="M264.41195124 66.5l105.54739935.5102539-48.48242188 24.7932129H216.0111084L264.41195124 66.5z"/>
+          <path fill="rgb(34,34,34)" fill-rule="evenodd" d="M216 91.83105469v56.1398145h105.41308594l48.56640625-24.93522466V66.99853516l-48.56640625 24.83251953H216z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-78"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-78"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-79"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-79"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-80"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-80"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-81"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-81"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-82"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-82"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-83"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-83"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-84"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-84"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-85"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-85"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-86"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-86"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#ellipse-87"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-87"/>
+          </g>
+          <g>
+            <use fill="rgb(0,0,0)" xlink:href="#path-88"/>
+            <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-88"/>
+          </g>
+          <g>
+            <use fill="rgb(241,241,241)" xlink:href="#ellipse-89"/>
+            <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-89"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M321.43945313 91.8380127v56.12255859l48.50463867-24.86413574V67.05432129l-48.50463868 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <g>
+          <path fill="rgb(243,52,55)" fill-rule="evenodd" d="M203.41195124 9.5l105.54739935.5102539-48.48242188 24.7932129H155.0111084L203.41195124 9.5z"/>
+          <path fill="rgb(218,8,12)" fill-rule="evenodd" d="M155 34.83105469v56.1398145h105.41308594l48.56640625-24.93522466V9.99853516l-48.56640625 24.83251953H155z"/>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#ellipse-93"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-93"/>
+          </g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#path-94"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-94"/>
+          </g>
+          <g>
+            <use fill="rgb(249,194,195)" xlink:href="#ellipse-95"/>
+            <use fill-opacity="0" stroke="rgb(249,194,195)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-95"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#ellipse-96"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-96"/>
+          </g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#path-97"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-97"/>
+          </g>
+          <g>
+            <use fill="rgb(249,194,195)" xlink:href="#ellipse-98"/>
+            <use fill-opacity="0" stroke="rgb(249,194,195)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-98"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#ellipse-99"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-99"/>
+          </g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#path-100"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-100"/>
+          </g>
+          <g>
+            <use fill="rgb(249,194,195)" xlink:href="#ellipse-101"/>
+            <use fill-opacity="0" stroke="rgb(249,194,195)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-101"/>
+          </g>
+        </g>
+        <g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#ellipse-102"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-102"/>
+          </g>
+          <g>
+            <use fill="rgb(193,42,25)" xlink:href="#path-103"/>
+            <use fill-opacity="0" stroke="rgb(193,42,25)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-103"/>
+          </g>
+          <g>
+            <use fill="rgb(249,194,195)" xlink:href="#ellipse-104"/>
+            <use fill-opacity="0" stroke="rgb(249,194,195)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-104"/>
+          </g>
+        </g>
+      </g>
+      <path fill="rgb(193,42,25)" fill-rule="evenodd" d="M260.43945313 34.8380127v56.12255859l48.50463867-24.86413574V10.05432129l-48.50463868 24.7836914z"/>
+    </g>
+    <g>
+      <g>
+        <use fill="rgb(0,0,0)" xlink:href="#ellipse-106"/>
+        <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-106"/>
+      </g>
+      <g>
+        <use fill="rgb(0,0,0)" xlink:href="#path-107"/>
+        <use fill-opacity="0" stroke="rgb(0,0,0)" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" xlink:href="#path-107"/>
+      </g>
+      <g>
+        <use fill="rgb(241,241,241)" xlink:href="#ellipse-108"/>
+        <use fill-opacity="0" stroke="rgb(241,241,241)" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="1" xlink:href="#ellipse-108"/>
+      </g>
+    </g>
+  </g>
+</svg>
